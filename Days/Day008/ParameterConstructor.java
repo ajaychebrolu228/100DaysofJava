@@ -13,6 +13,6 @@ public class ParameterConstructor {
 class MyClass{
 	int x;
 	MyClass(int i) {
-		this.x = i;
+		x = i;
 	}
 }
